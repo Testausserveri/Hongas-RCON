@@ -30,7 +30,7 @@
 5. Set rcon_port to the port you want.
 6. Restart your server.
 ------------
-#### ** Site Installation:**
+#### **Site Installation:**
 1. Unzip the zip file
 2. Open **index.php**.
 3. Edit line 5 and remove **SERVER IP** and put your server ip there.
