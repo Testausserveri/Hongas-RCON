@@ -2,25 +2,8 @@
 ### Hongas is a RCON console for multiple games that can be run online. Made using PHP.
 ------------
 #### **Supported games:**
-- 7 Days to Die
-- ARK: Survival Evolved
-- ArmA 2
-- ArmA 3
-- Atlas	
-- Beyond the Wire
-- Conan Exiles
-- Counter-Strike: Global Offensive
-- Dark and Light
-- DayZ
-- Garry's Mod
-- Hell Let Loose
-- Insurgency
 - Minecraft
-- MORDHAU
-- Post Scriptum
-- RS2: Vietnam	
-- Rust
-- Squad
+- You can test other games but only Minecraft is tested.
 ------------
 #### **Minecraft Installation:**
 1. Open your server's **server.proporties** file.
