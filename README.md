@@ -1,4 +1,4 @@
-# ****Hongas****
+# ****Hongas RCON****
 ### Hongas is a RCON console online. Made using PHP.
 ------------
 #### **Installation:**
