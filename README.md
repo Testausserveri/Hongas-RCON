@@ -1,5 +1,5 @@
-# ****TestausOhjaus****
-### TestausOhjaus is a RCON console for multiple games that can be run online. Made using PHP.
+# ****Hongas RCON****
+### Hongas is a RCON console for multiple games that can be run online. Made using PHP.
 ------------
 #### **Supported games:**
 - 7 Days to Die
